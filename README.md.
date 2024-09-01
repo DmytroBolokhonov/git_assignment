@@ -19,3 +19,6 @@ An issue is a way to track tasks, enhancements, bugs, or any other to-do items w
 3. In the "Collaborators and teams" section, search for the collaborator by their GitHub username.
 4. Click "Add collaborator."
 5. The collaborator will receive an invitation to join the repository with write permissions.
+
+### e. What is the difference between git and GitHub?
+Git is a version control system that helps you track changes to your code over time. GitHub is a web-based platform that uses Git to allow developers to collaborate, share, and manage their projects online.
