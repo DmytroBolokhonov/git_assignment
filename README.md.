@@ -12,3 +12,10 @@ An issue is a way to track tasks, enhancements, bugs, or any other to-do items w
 5. Select the branch you want to merge into the main branch.
 6. Review the changes and add a descriptive title and comment.
 7. Click "Create pull request."
+
+### d. Describe the steps to add a collaborator to a repository (share write permissions).
+1. Navigate to your repository on GitHub.
+2. Click on the "Settings" tab.
+3. In the "Collaborators and teams" section, search for the collaborator by their GitHub username.
+4. Click "Add collaborator."
+5. The collaborator will receive an invitation to join the repository with write permissions.
