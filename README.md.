@@ -25,3 +25,9 @@ Git is a version control system that helps you track changes to your code over t
 
 ### f. What does git diff do?
 `git diff` shows the differences between the working directory and the staging area. It helps you see what changes have been made before you stage or commit them.
+
+### g. What is the main branch?
+The main branch (often called `main` or `master`) is the default branch in a Git repository. It is typically where the production-ready code lives.
+
+### h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+It's generally not recommended to push changes directly into the main branch, especially in collaborative projects. Instead, create a feature branch, make your changes, and then open a pull request to merge the changes into the main branch after review.
