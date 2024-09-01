@@ -1,14 +1,6 @@
 # Git Assignment - DmytroBolokhonov
-a. What is an issue?
+# Git Assignment - <Your GitHub Username>
+
+### a. What is an issue?
 An issue is a way to track tasks, enhancements, bugs, or any other to-do items within a repository. It allows project members to discuss and collaborate on these topics.
-b. What is a pull request?
-A pull request is a way to propose changes to a repository. It allows collaborators to review the changes, discuss them, and approve or request modifications before the changes are merged into the main branch.
-c. Describe the steps to open a pull request?
 
-d. Describe the steps to add a collaborator to a repository (share write permissions)
-
-e. What is the difference between git and GitHub?
-
-f. What does git diff do?
-
-g. What is the main branch?
