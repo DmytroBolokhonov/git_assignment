@@ -22,3 +22,6 @@ An issue is a way to track tasks, enhancements, bugs, or any other to-do items w
 
 ### e. What is the difference between git and GitHub?
 Git is a version control system that helps you track changes to your code over time. GitHub is a web-based platform that uses Git to allow developers to collaborate, share, and manage their projects online.
+
+### f. What does git diff do?
+`git diff` shows the differences between the working directory and the staging area. It helps you see what changes have been made before you stage or commit them.
